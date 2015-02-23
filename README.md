@@ -1,6 +1,8 @@
 angular.jquery
 ==============
 
+This project is a fork from [jurberg/angular.jquery](https://github.com/jurberg/angular.jquery)
+
 Angular directives for jQuery and jQuery UI plugins
 
 jqdialog - jQuery UI Dialog Directive
